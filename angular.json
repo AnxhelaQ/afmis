@@ -23,6 +23,8 @@
               "src/assets"
             ],
             "styles": [
+              "C:/afmis/node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "C:/afmis/node_modules/font-awesome/css/font-awesome.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -72,8 +74,7 @@
             "tsConfig": "src/tsconfig.spec.json",
             "karmaConfig": "src/karma.conf.js",
             "styles": [
-              "../node_modules/bootstrap/dist/css/bootsrap.min.css",
-              "../node_modules/font-awesome/css/font-awesome.min.css",
+              
               "styles.css"
             ],
             "scripts": [],
