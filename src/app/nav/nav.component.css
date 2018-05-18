@@ -2,9 +2,12 @@ nav{
   
     padding-left: 0px;
     padding-right: 30px;
-    padding-top: 0px;
+    
     margin-bottom: 0;
     list-style: none;
+}
+.logo{
+    padding-top: 0px;
 }
 
 
