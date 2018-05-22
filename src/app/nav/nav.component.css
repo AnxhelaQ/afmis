@@ -1,8 +1,8 @@
 nav{
   
-    padding-left: 0px;
+    padding-left: 400px;
     padding-right: 30px;
-    
+    padding-top: 0px;
     margin-bottom: 0;
     list-style: none;
 }
@@ -19,4 +19,20 @@ div {
     padding-top: 0;
     margin-bottom: 0;
     
+}
+center {
+    display: block;
+    text-align: -webkit-center;
+}
+
+#masterwrapper {
+    background: url(C:\afmis\src\app\nav\img\bgwn.jpg) repeat-x top center;
+}
+
+#logo {
+    position: absolute;
+    z-index: 1000;
+    padding-top: 0px;
+    padding-left: 300px;
+
 }
