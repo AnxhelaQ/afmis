@@ -55,7 +55,7 @@ center {
 }
 
 #masterwrapper {
-    background: url(C:\afmis\src\app\nav\img\bgwn.jpg) repeat-x top center;
+    background: url(./img/bgwn.jpg) repeat-x top center;
     
     
 }
@@ -69,7 +69,7 @@ center {
 }
 
 #imazh{
-    background: url(C:\afmis\src\app\nav\img\scheme.png) no repeat top center;
+    background: url(./img/scheme.png) no repeat top center;
     max-width: 100%;
     height: auto;
     
