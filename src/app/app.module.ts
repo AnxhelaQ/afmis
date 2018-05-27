@@ -5,6 +5,7 @@ import { AppComponent } from './app.component';
 import { NavComponent } from './nav/nav.component';
 import { AfmisComponent } from './afmis/afmis.component';
 import { EamisComponent } from './eamis/eamis.component';
+import { CarouselComponent } from './carousel/carousel.component';
 
 @NgModule({
   declarations: [
@@ -12,7 +13,8 @@ import { EamisComponent } from './eamis/eamis.component';
     NavComponent
 ,
     AfmisComponent,
-    EamisComponent
+    EamisComponent,
+    CarouselComponent
 ],
   imports: [
     BrowserModule

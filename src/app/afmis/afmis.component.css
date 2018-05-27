@@ -13,18 +13,18 @@ p{
 
 li, ul{
     color: black;
-    font-size: 20px;
+    
+    text-align: justify;
+    font-size: 1vw;
 }
 
-#paragrafi, ul{
+#paragrafi {
     text-align: justify;
     letter-spacing: 0px;
-    font-size: 20px;
+    font-size: 2vw;
    
 }
-.lead{
-    font-size: 30px;
-}
+
 
 button{
     background-color: rgb(230, 46, 46);
@@ -37,4 +37,5 @@ button{
     border-radius: 12px;
     font-weight: bold;
 }
+
 
