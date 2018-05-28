@@ -6,6 +6,7 @@ import { NavComponent } from './nav/nav.component';
 import { AfmisComponent } from './afmis/afmis.component';
 import { EamisComponent } from './eamis/eamis.component';
 import { CarouselComponent } from './carousel/carousel.component';
+import { IpsisComponent } from './ipsis/ipsis.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,8 @@ import { CarouselComponent } from './carousel/carousel.component';
 ,
     AfmisComponent,
     EamisComponent,
-    CarouselComponent
+    CarouselComponent,
+    IpsisComponent
 ],
   imports: [
     BrowserModule
